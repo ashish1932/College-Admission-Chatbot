@@ -1,0 +1,111 @@
+[
+  {
+    "prompt": "What is the eligibility for B.Tech?",
+    "response": "You must have completed 10+2 with Physics, Chemistry, and Math with at least 60% marks."
+  },
+  {
+    "prompt": "What is the last date to apply?",
+    "response": "The last date to apply for B.Tech is July 30, 2025."
+  },
+  {
+    "prompt": "What are the fees for MBA?",
+    "response": "The MBA course fee is ₹1,20,000 per year."
+  },
+  {
+    "prompt": "How much is the hostel fee?",
+    "response": "The hostel fee is ₹45,000 per year, including accommodation and meals."
+  },
+  {
+    "prompt": "What is the counseling process?",
+    "response": "After qualifying the entrance exam, shortlisted candidates must attend counseling sessions for seat allocation and document verification."
+  },
+  {
+    "prompt": "What is the payment deadline for fees?",
+    "response": "The payment deadline for tuition and hostel fees is August 5, 2025. Late payments may incur a penalty."
+  },
+  {
+    "prompt": "Can I pay fees in installments?",
+    "response": "Yes, fees can be paid in two installments. Please contact the accounts office for details."
+  },
+  {
+    "prompt": "Which is better: B.Tech in CSE or IT?",
+    "response": "Both CSE and IT offer good career prospects. CSE focuses more on core computing, while IT emphasizes information systems and management."
+  },
+  {
+    "prompt": "Is there support for Hindi language?",
+    "response": "Yes, our chatbot supports both English and Hindi for answering queries."
+  },
+  {
+    "prompt": "How do I upload my resume for course suggestions?",
+    "response": "You can upload your resume on the admissions portal, and our system will recommend suitable courses based on your profile."
+  },
+  {
+    "prompt": "What is the eligibility for M.Tech?",
+    "response": "You must have a B.Tech or equivalent degree with at least 60% marks and a valid GATE score."
+  },
+  {
+    "prompt": "Are there any evening courses?",
+    "response": "Yes, we offer evening courses for working professionals in select programs. Check the course catalog for details."
+  },
+  {
+    "prompt": "Can I get a refund if I withdraw my application?",
+    "response": "Refunds are available if you withdraw before the admission deadline. Refer to the refund policy on our website."
+  },
+  {
+    "prompt": "What is the process for international students?",
+    "response": "International students must submit their transcripts, passport, and English proficiency scores. Contact the international office for guidance."
+  },
+  {
+    "prompt": "How do I get a copy of the brochure?",
+    "response": "You can download the college brochure from our website or request a printed copy by mail."
+  },
+  {
+    "prompt": "What is the minimum attendance required?",
+    "response": "A minimum of 75% attendance is required to appear for semester exams."
+  },
+  {
+    "prompt": "Can I change my course after admission?",
+    "response": "Course change requests are considered within the first two weeks of the semester, subject to seat availability."
+  },
+  {
+    "prompt": "Is there any entrance exam for MCA?",
+    "response": "Yes, MCA admissions require qualifying the college entrance exam held in June."
+  },
+  {
+    "prompt": "When does the semester start?",
+    "response": "The semester for all courses starts on August 10, 2025."
+  },
+  {
+    "prompt": "Can I get a scholarship?",
+    "response": "Scholarships are available for meritorious and economically weaker students. Please check the scholarship section on our website."
+  },
+  
+  {
+    "prompt": "What documents are required for application?",
+    "response": "You need your 10+2 mark sheet, ID proof, passport-size photos, and entrance exam scorecard."
+  },
+  {
+    "prompt": "How do I apply online?",
+    "response": "Visit our admissions portal, fill out the application form, upload documents, and pay the application fee online."
+  },
+  {
+    "prompt": "What is the intake for B.Tech?",
+    "response": "The annual intake for B.Tech is 180 students."
+  },
+  {
+    "prompt": "What is the duration of MBA?",
+    "response": "The MBA program duration is 2 years."
+  },
+  {
+    "prompt": "When will results be declared?",
+    "response": "Results will be declared on July 15, 2025, on the college website."
+  },
+  {
+    "prompt": "What is the eligibility for MBA?",
+    "response": "Graduation in any discipline with at least 50% marks and a valid entrance exam score."
+  },
+  {
+    "prompt": "How can I contact support?",
+    "response": "You can email us at admissions@college.edu or call +91-1234567890 for assistance."
+  }
+]
